@@ -6,7 +6,7 @@ permalink: /terms-of-service/
 
 # KORINGO Terms of Service
 
-**Effective date:** September 24, 2026
+**Effective date:** September 27, 2026
 **Operator:** Made In Hanguk (Yonghyeok Kim, publisher registered in the Republic of Korea) ("we", "us")
 **Contact:** kwh5723@gmail.com
 
@@ -22,10 +22,11 @@ We grant you a personal, non-transferable, non-exclusive license to install and 
 
 ## 3. KORINGO Premium
 
-Premium is an optional purchase that unlocks unlimited gogumas, writing practice, and reading drills.
+Premium is an optional purchase that unlocks every course after the first four (the first four courses stay free), unlimited gogumas, writing practice, and reading drills.
 
 - **Plans.** Monthly subscription, yearly subscription, and a one-time lifetime purchase. Prices are shown in the App before you buy and may vary by country and currency.
 - **Introductory offer.** Where shown, the monthly plan's first billing period may be offered at a reduced price. After it ends, the plan renews at the regular price.
+- **Free trial.** Where shown, the yearly plan starts with a 14-day free trial. If you do not cancel at least 24 hours before the trial ends, the yearly price is charged and the subscription begins. You can cancel during the trial at no charge.
 - **Auto-renewal.** Subscriptions renew automatically for the same period at the then-current price unless you cancel at least 24 hours before the end of the current period. Payment is charged to your App Store or Google Play account.
 - **Managing and cancelling.** Manage or cancel in your device's account settings (App Store: Settings → Apple ID → Subscriptions; Google Play: Payments & subscriptions). Uninstalling the App does not cancel a subscription. Cancelling stops future charges; you keep access until the end of the paid period.
 - **Lifetime.** A one-time purchase that does not renew. It is tied to the store account that bought it and can be restored on other devices signed in to that account.
@@ -39,7 +40,7 @@ Gogumas are a game mechanic with no monetary value. They cannot be purchased wit
 
 ## 5. Your data
 
-The App stores your progress on your device and has no accounts. See the Privacy Policy for details. If you reset progress in the App or uninstall it, your learning data is gone and cannot be recovered by us.
+The App stores your progress on your device and has no accounts. Anonymous usage statistics and the optional email sign-up are described in the Privacy Policy. If you reset progress in the App or uninstall it, your learning data is gone and cannot be recovered by us.
 
 ## 6. Acceptable use
 
